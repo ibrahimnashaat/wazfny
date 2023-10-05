@@ -1,5 +1,5 @@
 ![WhatsApp Image 2023-09-28 at 20 32 45_835da2a9](https://github.com/ibrahimnashaat/wazfny/assets/70017481/ecba33f2-2559-408a-b525-fd16e302157e)
-![WhatsApp Image 2023-09-28 at 20 32 45_eb96372c](https://github.com/ibrahimnashaat/wazfny/assets/70017481/93542708-793d-4828-b40d-fbf700a7311d)
+![WhatsApp Image 2023-09-28 at 20 32 45_eb96372c](https://github.com/ibrahimnashaat/wazfny/assets/70017481/93542708-793d-4828-b40d-fbf700a7311d | width = 100)
 
 
 
