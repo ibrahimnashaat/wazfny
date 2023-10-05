@@ -1,5 +1,5 @@
 
-#wazfny App
+# wazfny App
 
 
 <div align="center">
@@ -22,11 +22,12 @@
 
 
 
-##Overview
+
+## Overview
 
 wazfny is a user-friendly mobile application designed to help workers easily find job opportunities that match their skills and preferences. Whether you're a full-time professional seeking a career change, a student looking for part-time work, or someone in need of immediate temporary employment, JobFinder has got you covered. This README provides an overview of the app's features, functionality, and how to use it effectively.
 
-##Features
+## Features
 
 ### 1. User Registration and Profile Creation
 
@@ -64,7 +65,7 @@ wazfny is a user-friendly mobile application designed to help workers easily fin
 - Connect with employers and other job seekers through in-app messaging.
 - Build a professional network and ask questions about job openings directly to employers.
 
-##Feedback and Support
+## Feedback and Support
 
 We value your feedback and are constantly working to improve the wazfny app. If you have any questions, encounter issues, or have suggestions for enhancements, please contact our support team at ibrahim.nashat.2023@gmail.com
 
